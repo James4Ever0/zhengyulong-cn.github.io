@@ -1,0 +1,1 @@
+import{_ as i,o as l,c as e,b as t}from"./app.79da0fb4.js";const S=JSON.parse('{"title":"\u6982\u8981","description":"","frontmatter":{},"headers":[],"relativePath":"programing-skills/index.md"}'),a={name:"programing-skills/index.md"},r=t("",3),n=[r];function s(o,_,c,d,p,u){return l(),e("div",null,n)}const m=i(a,[["render",s]]);export{S as __pageData,m as default};
